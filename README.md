@@ -16,5 +16,5 @@ Simply download the zip file on the Releases page, and unzip the `ToggleItems.ap
 
 ## Misc.
 
-You like this project, please don't hesitate to give it a star. Cheers~
+If you like this project, please don't hesitate to give it a star. Cheers~
 
