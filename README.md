@@ -14,6 +14,16 @@ Simply download the zip file on the Releases page, and unzip the `ToggleItems.ap
 
 >  Run it again will bring your desktop items back.
 
+## Bash Script
+
+A simple bash script is also provided for you, if you wanna toggle in a comand-line environment.
+
+> Please make sure the script is executable:
+
+```bash
+$ chmod u+x main.sh
+```
+
 ## Misc.
 
 If you like this project, please don't hesitate to give it a star. Cheers~
